@@ -1,0 +1,76 @@
+{
+	"restaurants": [
+		{
+			"id": "6c7bqjgi84kcowlqdz",
+			"name": "Bring Your Phone Cafe",
+			"description": "Restoran kami menyajikan cita rasa makanan yang luar biasa. Kami menggunakan bahan-bahan berkualitas tinggi dan diproses dengan cara yang sehat untuk memberikan pengalaman makan yang luar biasa bagi para tamu kami.",
+			"pictureId": "https://restaurant-api.dicoding.dev/images/medium/41",
+			"city": "Medan",
+			"rating": 4.6
+		},
+		{
+			"id": "ljx8i0qu2uckcowlqdz",
+			"name": "Run The Gun",
+			"description": "Kami menawarkan beragam menu yang disajikan dengan cara yang unik dan menyegarkan. Dari masakan tradisional hingga masakan internasional, kami memiliki sesuatu yang cocok untuk setiap selera. Kami juga menawarkan menu khusus untuk vegetarian dan pilihan makanan sehat.",
+			"pictureId": "https://restaurant-api.dicoding.dev/images/medium/07",
+			"city": "Bali",
+			"rating": 4.6
+		},
+		{
+			"id": "fe8bbxoazddkcowlqdz",
+			"name": "Pangsit Express",
+			"description": "Di restoran kami, Anda dapat menikmati makanan di lingkungan yang indah dan nyaman. Kami menawarkan pemandangan yang menakjubkan dan suasana yang santai yang cocok untuk makan siang atau makan malam. Kami juga menyediakan fasilitas untuk acara khusus seperti pernikahan, ulang tahun, dan pertemuan bisnis.",
+			"pictureId": "https://restaurant-api.dicoding.dev/images/medium/29",
+			"city": "Ternate",
+			"rating": 4.8
+		},
+		{
+			"id": "ik1zljmlf68kcowlqdz",
+			"name": "Ducky Duck",
+			"description": "Di restoran kami, kami sangat menghargai kualitas dan kesegaran bahan-bahan yang kami gunakan. Kami bekerja sama dengan para petani lokal untuk memastikan bahwa bahan-bahan yang kami gunakan adalah segar dan berkualitas tinggi. Kami juga mengutamakan kualitas makanan dengan harga yang terjangkau.",
+			"pictureId": "https://restaurant-api.dicoding.dev/images/medium/38",
+			"city": "Malang",
+			"rating": 4.7
+		},
+		{
+			"id": "9jpuzkm6n6jkcowlqdz",
+			"name": "Kafein",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+			"pictureId": "https://restaurant-api.dicoding.dev/images/medium/40",
+			"city": "Bali",
+			"rating": 3.8
+		},
+		{
+			"id": "cpl5jpsnuqkkcowlqdz",
+			"name": "Makan mudah",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+			"pictureId": "https://restaurant-api.dicoding.dev/images/medium/08",
+			"city": "Malang",
+			"rating": 4.6
+		},
+		{
+			"id": "iqtf9hmdzvbkcowlqdz",
+			"name": "Saya Suka",
+			"description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+			"pictureId": "https://restaurant-api.dicoding.dev/images/medium/32",
+			"city": "Surabaya",
+			"rating": 3.6
+		},
+		{
+			"id": "8i06gqcc2dpkcowlqdz",
+			"name": "Gigitan Cepat",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+			"pictureId": "https://restaurant-api.dicoding.dev/images/medium/45",
+			"city": "Aceh",
+			"rating": 4
+		},
+		{
+			"id": "wf5o19xhxxkcowlqdz",
+			"name": "Fairy Cafe",
+			"description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+			"pictureId": "https://restaurant-api.dicoding.dev/images/medium/04",
+			"city": "Malang",
+			"rating": 3.9
+		}
+	]
+}
