@@ -6,7 +6,7 @@
 	"display": "standalone",
 	"orientation": "any",
 	"scope": "/",
-	"start_url": "https://yaziddev88.github.io/front-end-expert-dicoding",
+	"start_url": "/",
 	"description": "Nikmati hidangan lezat dari restoran kami! Dari makanan tradisional hingga hidangan modern, Ayo, mari makan bersama di restoran kami sekarang juga!",
 	"icons": [
 		{
